@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maksym-severyn
 - 👀 I’m interested in Java and web applications
-- 🌱 I’m currently learning Spring Boot, Hibernate, Maven, Docker.
+- 🌱 I’m currently learning Spring Boot, Hibernate, Maven, Docker, HTTP
 <!-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --!>
 
